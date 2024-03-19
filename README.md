@@ -65,6 +65,10 @@ xor(D,a,b);
 and(Bo,abar,b); 
 endmodule
 ```
+
+**RTL Schematic**
+![Screenshot 2024-03-19 134915](https://github.com/Soundaryajothi/HALF_ADDER_SUBTRACTOR/assets/144870490/f78a0dd0-f97f-4efb-ad40-6fffe8791722)
+
 **Output/TIMING Waveform**
 
 ![Screenshot 2024-03-19 133556](https://github.com/Soundaryajothi/HALF_ADDER_SUBTRACTOR/assets/144870490/0a50b2ac-c376-4131-bde1-4fbd00414d31)
